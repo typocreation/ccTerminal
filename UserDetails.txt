@@ -1,0 +1,26 @@
+Enter usernames (separated by commas): 
+Fatima_Noor123,Hafza_Nawaz,Fatima_Bukhari12
+Fatima_Noor123 - Valid
+   Letters: 10 (Uppercase: 2, Lowercase: 8), Digits: 3, Underscores: 1
+   Generated Password: rR0^rH3!o2PL (Strength: good)
+Hafza_Nawaz - Valid
+   Letters: 10 (Uppercase: 2, Lowercase: 8), Digits: 0, Underscores: 1
+   Generated Password: lC0@kQ3^4%FE (Strength: good)
+Fatima_Bukhari12 - Invalid (Username length must be between 5 and 15.)
+Summary:
+- Total Usernames: 3
+- Valid Usernames: 2
+- Invalid Usernames: 1
+Do you want to retry invalid usernames? (y/n): 
+y
+Enter invalid usernames: 
+Hafza_Nawaz12,FatimaNoor,Hafza_Khan123
+Hafza_Nawaz12 - Valid
+   Letters: 10 (Uppercase: 2, Lowercase: 8), Digits: 2, Underscores: 1
+   Generated Password: pO6&tY5!BX^W (Strength: good)
+FatimaNoor - Valid
+   Letters: 10 (Uppercase: 2, Lowercase: 8), Digits: 0, Underscores: 0
+   Generated Password: pV6@hE6@rDl1 (Strength: good)
+Hafza_Khan123 - Valid
+   Letters: 9 (Uppercase: 2, Lowercase: 7), Digits: 3, Underscores: 1
+   Generated Password: pV8!bP4&xm9w (Strength: good)
